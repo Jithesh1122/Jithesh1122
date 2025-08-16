@@ -36,13 +36,6 @@
 
 ---
 
-### 🏆 Achievements
-- 🥈 2nd place — Project Expo (Mini Project Poster), Sahyadri  
-- 🎖️ Postman API Student Expert · Python Foundation (Infosys) · NPTEL: Problem Solving in C  
-- ⚡ HackNight 2024 (20-hour hackathon)
-
----
-
 ### 📍 Now
 - Learning: Advanced React, Cloud basics  
 - Building: polishing ML projects with better demos & docs  
@@ -55,6 +48,5 @@
 <p align="center">
   <!-- Stats cards (optional). Remove if you prefer minimal. -->
   <img src="https://github-readme-stats.vercel.app/api?username=Jithesh1122&show_icons=true" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithesh1122&layout=compact" />
 </p>
